@@ -22,7 +22,7 @@ This project implements a complete end-to-end character recognition system capab
 ### Deep Learning Framework
 - **PyTorch**: 2.0.0+
 - **torchvision**: 0.15.0+
-- **CUDA**: 11.8+ or 12.x
+- **CUDA**: 11.8+ or
 - **cuDNN**: 8.x+
 
 ### Model Architecture
@@ -432,3 +432,4 @@ For issues and questions:
 ---
 
 **Built with ❤️ using PyTorch, ResNet-18, and Flask**
+
